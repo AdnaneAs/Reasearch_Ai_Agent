@@ -1,0 +1,30 @@
+# Core dependencies
+langchain>=0.3.19
+langchain-core>=0.3.36
+langgraph>=0.2.74
+pydantic==2.6.1
+
+# LLM and API Integration
+ollama==0.1.6
+scholarly
+serpapi
+
+# Web and Networking
+requests==2.31.0
+aiohttp
+httpx
+backoff
+
+# Data Processing
+PyYAML==6.0.1
+python-dotenv==1.0.0
+typing-extensions==4.9.0
+bibtexparser
+beautifulsoup4
+
+# Academic and Research
+arxiv
+pyzotero==1.5.18
+
+# UI
+streamlit==1.32.0
