@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 1. Start the application:
 ```bash
-python src/app.py
+streamlit run src/app.py
 ```
 
 2. The system will:
